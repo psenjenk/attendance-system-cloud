@@ -34,7 +34,7 @@ A Django-based cloud attendance system with REST API support.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/kevinpsenjen/attendance-system-cloud.git
+git clone https://github.com/psenjenk/attendance-system-cloud.git
 cd attendance-system-cloud
 ```
 
