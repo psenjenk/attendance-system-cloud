@@ -2,6 +2,8 @@
 
 A Django-based cloud attendance system with REST API support.
 
+![Cloud Attendance System](static/images/cloud.jpg)
+
 ## Features
 
 - Student management
@@ -12,6 +14,15 @@ A Django-based cloud attendance system with REST API support.
 - Secure authentication
 - API documentation
 - Logging and monitoring
+
+### Student Management
+![Student Management](static/images/student.PNG)
+
+### Subject Management
+![Subject Management](static/images/subjects.PNG)
+
+### Attendance Tracking
+![Attendance Tracking](static/images/attendance.PNG)
 
 ## Prerequisites
 
