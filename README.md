@@ -22,13 +22,13 @@ A Django-based cloud attendance system with REST API support, designed for educa
 - Logging and monitoring
 
 ### Student Management
-![Student Management](static/images/student.PNG)
+![Student Management](static/images/student.jpg)
 
 ### Subject Management
-![Subject Management](static/images/subjects.PNG)
+![Subject Management](static/images/subjects.jpg)
 
 ### Attendance Tracking
-![Attendance Tracking](static/images/attendance.PNG)
+![Attendance Tracking](static/images/attendance.jpg)
 
 ## Prerequisites
 
